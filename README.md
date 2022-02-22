@@ -26,8 +26,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 
-### Project
+### Projects
 [![](https://img.shields.io/badge/-🫀%20CardioDisease-000)](https://github.com/Vuillecard/CVD_predicition)
 [![](https://img.shields.io/badge/-📈%20DiscontinuityPred-000)](https://github.com/Vuillecard/NN_detection_location_shock)
 [![](https://img.shields.io/badge/-🐝%20FlappingWing-000)](https://github.com/Vuillecard/UnFold_ML_project)
 [![](https://img.shields.io/badge/-💾%20HPC-000)](https://github.com/Vuillecard/phpc_submission_2020)
+[![](https://img.shields.io/badge/-📊%20MonteCarlo-000)](https://github.com/emmahoggett/ProjectPCSC)
+[![](https://img.shields.io/badge/-🎯%20Optimization-000)](https://github.com/margheguido/OptMLproject)
