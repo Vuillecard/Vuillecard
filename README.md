@@ -20,6 +20,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
