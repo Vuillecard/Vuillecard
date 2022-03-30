@@ -3,9 +3,8 @@
 [![](https://img.shields.io/badge/-📧%20pivuil@gmail.com-000)](mailto:pivuil@gmail.com)
 
 👤 I am a computational engineer freshly graduate from EPFL, Switzerland.
-
-🧠 I am interested in Deep Learning more specifically self-supervised and representation learning. 
-
+🧑‍🎓 Bachlor in mathematics and master in computational science
+🧠 I am interested in Deep Learning and Optimization algorithms with application in Computer vision. 
 💥 Looking to work on amazing project to improve the world.
 
 🔎 Find a non exhaustive list of skills and project.
