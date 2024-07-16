@@ -2,16 +2,16 @@
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/pierre-vuillecard-b5326b195/)
 [![](https://img.shields.io/badge/-📧%20pivuil@gmail.com-000)](mailto:pivuil@gmail.com)
 
-👤 I am a computational engineer freshly graduate from EPFL, Switzerland.
+👤 I am a computational engineer freshly graduated from EPFL, Switzerland.
 
-🧑‍🎓 Bachlor in mathematics and master in computational science
+🧑‍🎓 Bachelor in mathematics and master in computational science
 
-🧠 I am interested in Deep Learning and Optimization algorithms with application in Computer vision. 
+🧠 I am interested in Deep Learning and Optimization algorithms with applications in Computer vision. 
 
-💥 Looking to work on amazing project to improve the world.
+💥 Looking to work on exciting projects
 
 
-🔎 Find a non exhaustive list of skills and project.
+🔎 Find a non-exhaustive list of skills and projects.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
