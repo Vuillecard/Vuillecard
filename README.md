@@ -5,8 +5,8 @@
 [![](https://img.shields.io/badge/-📧%20pivuil@gmail.com-000)](mailto:pivuil@gmail.com)
 
 ### About me
-👤 I am a PhD student from EPFLxIdiap, Switzerland. I am working on computer vision with applications in temporal nonverbal facial behavior recognition such as head pose, gaze, facial expression, head gestures, ...
-🧑‍🎓 Bachelor in mathematics and master in computational science at EPFL 
+👤 I am a PhD student from EPFLxIdiap, Switzerland. I am working on computer vision with applications in temporal nonverbal facial behavior recognition such as head pose, gaze, facial expression, head gestures, ...<br> 
+🧑‍🎓 Bachelor in mathematics and master in computational science at EPFL.<br>
 🧠 I am interested in Deep Learning with applications in Computer Vision. 
 
 🔎 Find a non-exhaustive list of skills and projects.
