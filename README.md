@@ -4,14 +4,10 @@
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/pierre-vuillecard-b5326b195/)
 [![](https://img.shields.io/badge/-📧%20pivuil@gmail.com-000)](mailto:pivuil@gmail.com)
 
-👤 I am a computational engineer freshly graduated from EPFL, Switzerland.
-
-🧑‍🎓 Bachelor in mathematics and master in computational science
-
-🧠 I am interested in Deep Learning and Optimization algorithms with applications in Computer vision. 
-
-💥 Looking to work on exciting projects
-
+### About me
+👤 I am a PhD student from EPFLxIdiap, Switzerland. I am working on computer vision with applications in temporal nonverbal facial behavior recognition such as head pose, gaze, facial expression, head gestures, ...
+🧑‍🎓 Bachelor in mathematics and master in computational science at EPFL 
+🧠 I am interested in Deep Learning with applications in Computer Vision. 
 
 🔎 Find a non-exhaustive list of skills and projects.
 
@@ -32,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 
-### Projects
+### Relevant Projects
 [![](https://img.shields.io/badge/-🫀%20CardioDisease-000)](https://github.com/Vuillecard/CVD_predicition)
 [![](https://img.shields.io/badge/-📈%20DiscontinuityPred-000)](https://github.com/Vuillecard/NN_detection_location_shock)
 [![](https://img.shields.io/badge/-🐝%20FlappingWing-000)](https://github.com/Vuillecard/UnFold_ML_project)
