@@ -1,4 +1,6 @@
 ### Pierre Vuillecard
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Pierre;Nice+to+meet+you!)
+
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/pierre-vuillecard-b5326b195/)
 [![](https://img.shields.io/badge/-📧%20pivuil@gmail.com-000)](mailto:pivuil@gmail.com)
 
